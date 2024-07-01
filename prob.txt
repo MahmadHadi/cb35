@@ -1,0 +1,2 @@
+1 jul
+    check if given char is vowel or not using simple if and if else 
