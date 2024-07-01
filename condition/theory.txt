@@ -1,0 +1,139 @@
+1] if desicion making statement
+2] if esle desicion making statement
+3] nested if desicion making statement
+4] if else if ladder desicion making statement
+ 
+5] ternary operators 
+
+6] switch case 
+
+relational operator to check relation between two variables / nums / functions
+----------------------------------
+< - less than
+> - greater than
+== - double equal to
+!= - not equal to
+<= - less than equal to
+>= greater than equal to 
+
+
+Logical operator
+----------------------------------
+&& - and 
+|| - or 
+
+&& -> and -> if all conditions are true / badhi conditions true hoy tyare
+
+|| -> or -> if any one condition is true / koy 1 condition true hoy to
+
+a==b || c==d -> a == b ro c == d 
+a==b && c==d -> a == b and c == d 
+
+TRUTHTABLE
+
+
+or - || 
+
+c 1       c 2       ans 
+  
+  t       t         t          
+  t       f         t         
+  f       t         t        
+  f       f         f        
+
+and - && 
+c 1       c 2       ans 
+  
+  t       t         t          
+  t       f         f         
+  f       t         f        
+  f       f         f        
+
+
+
+
+
+1] if desicion making statement
+-----------------------------------
+
+syntax
+
+if (condition)
+{
+     code 
+}
+
+if (100 < 20)
+{
+     //lines code 
+}
+...
+
+
+2] if else 
+
+if(condition)
+{
+     ..lines of code
+}
+else
+{
+     ..lines of code 
+}
+...
+
+
+3] else if ladder
+
+if(condition)
+{
+     ..lines of code
+}
+else if (condition)
+{
+     ..lines of code 
+}
+else if (condition)
+{
+     ..lines of code 
+}
+else if (condition)
+{
+     ..lines of code 
+}
+else if (condition)
+{
+     ..lines of code 
+}
+else
+{
+     ..lines of code 
+}
+
+
+4] nested if 
+
+if (condition) {
+    if (condition 2) {
+        code 
+    }
+    else { if needed
+
+    }
+}
+else {
+    if (condition 3) {
+        code 
+    }
+    else { if needed
+
+    }
+}
+...
+
+5] ternary operator : 
+
+    condition? true: false;
+
+switch case
+------------------------------
