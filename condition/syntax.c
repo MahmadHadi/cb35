@@ -12,3 +12,26 @@ else // num1 != num2
     /* code */
 }
 
+
+
+if () {
+    if () {
+
+    }
+    else {
+        if () {
+
+        }
+    }
+} else {
+    if () {
+
+    }
+    if () {
+        if () {
+
+        }
+    } else {
+
+    }
+}

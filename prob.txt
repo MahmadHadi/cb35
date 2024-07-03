@@ -1,4 +1,7 @@
 1 jul
     check if given char is vowel or not using simple if and if else 
 
-split numbers 
+
+
+3 jul 
+    user -> age > 18, nationality => indian -> you can vote using && || ! 
