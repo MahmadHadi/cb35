@@ -5,3 +5,32 @@
 
 3 jul 
     user -> age > 18, nationality => indian -> you can vote using && || ! 
+
+4 jul 
+    split 4 digit number 
+    dry run greatestOfThreeNums.c
+        input:
+            Input Set 1
+            one = 5
+            two = 15
+            three = 10
+
+            Input Set 2
+            one = 20
+            two = 10
+            three = 15
+
+            Input Set 3
+            one = 8
+            two = 8
+            three = 8
+
+            Input Set 4
+            one = 1
+            two = 1
+            three = 2
+
+            Input Set 5
+            one = 3
+            two = 7
+            three = 7
