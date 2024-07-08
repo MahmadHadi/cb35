@@ -2,6 +2,7 @@
     "files.associations": {
         "*.ejs": "html",
         "stdbool.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "ctype.h": "c"
     }
 }

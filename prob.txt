@@ -34,3 +34,7 @@
             one = 3
             two = 7
             three = 7
+
+8 jul   
+    logic for -> tolower('A');
+    logic for -> toupper('a');
