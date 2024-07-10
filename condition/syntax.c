@@ -109,3 +109,43 @@ else {
        
     }
 }
+
+
+switch (num) {
+case 1:
+    print 1 
+    break;
+case 2: 
+    print 2 
+    break;
+case 3:
+    print 3 
+    break;
+case 101:
+    print "one zero one "
+    break;
+default:
+    print "default"
+    break;
+}
+
+if (num == 1) {
+    print 1 
+} else if (num == 2) {
+    print 2 
+} else if (num == 3) {
+    print 3
+} else if (num == 101) {
+     print "one zero one "
+} else if (num == 1) {
+    print "one "
+}
+
+
+if (c1) {
+    // true - code 
+} else {
+    // false - code 
+}
+
+c1 ? true-code : false-code; 
