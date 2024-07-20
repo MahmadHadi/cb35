@@ -149,3 +149,11 @@ if (c1) {
 }
 
 c1 ? true-code : false-code; 
+
+
+do while 
+
+do {
+    // code 
+} while (condition);
+
