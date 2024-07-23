@@ -21,4 +21,6 @@ void main() {
 
     // num = num + 10 
     // num += 10 -> speed 
+
+    // num = num + 1 num += 1 num++
 }
