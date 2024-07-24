@@ -55,3 +55,7 @@
         3! = 6
         2! = 2 
         1! = 1 
+
+24 jul 
+    lengthOfANum.c -> code 
+    product of all digit 
