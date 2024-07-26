@@ -59,3 +59,6 @@
 24 jul 
     lengthOfANum.c -> code 
     product of all digit 
+
+26 jul 
+    dry run code -> patterns/first.c -> take two inputs 
