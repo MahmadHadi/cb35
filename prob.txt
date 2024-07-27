@@ -62,3 +62,8 @@
 
 26 jul 
     dry run code -> patterns/first.c -> take two inputs 
+
+27 jul 
+    02 04 06 
+    08 10 12 
+    14 16 18 
