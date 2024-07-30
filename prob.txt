@@ -80,3 +80,16 @@
         0 1 0 
         1 0 1 
         0 1 0
+
+30 jul  
+    a a a a 
+    b b b b 
+    c c c c 
+    d d d d 
+
+    a b c d 
+    a b c d 
+    a b c d 
+    a b c d 
+
+    
