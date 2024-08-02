@@ -9,9 +9,9 @@
 
 #include <stdio.h>
 void main() {
-    int height;
-    printf("Enter height : ");
-    scanf("%d", &height);
+    int height = 5;
+    // printf("Enter height : ");
+    // scanf("%d", &height);
 
     for (int i = 1; i <= height; i++) {
         for (int j = height - 1; j >= i; j--) { // # 
