@@ -134,7 +134,3 @@ void main() {
 
 
 
-      a 
-    a b a 
-  a b c b a 
-a b c d c b a 
