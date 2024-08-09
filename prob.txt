@@ -95,4 +95,5 @@
 8 aug   
     calc using function -> + - * / % 
 
-    
+9 aug 
+    isPrime.c -> with dryrun 
