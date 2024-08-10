@@ -97,3 +97,6 @@
 
 9 aug 
     isPrime.c -> with dryrun 
+
+10 aug 
+    primeBw1ToN.c 
