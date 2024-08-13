@@ -100,3 +100,9 @@
 
 10 aug 
     primeBw1ToN.c 
+
+13 aug 
+    create a function which returns nth term of fibonacci src 
+        num = 6
+            return 8
+    create a function which returns factorial of given int number 

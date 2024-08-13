@@ -1,13 +1,8 @@
-// num = 5 
-// 1 - 5 
+// input -> start, end 
+// print all prime nums bw start and end 
 
-// 1 2 3 5 
-
-// num = 4 
-// 1 2 3 
-
-// num = 15 
-// 1 2 3 5 7 11 13 
+// start = 5, end = 10
+// 5 7 
 
 #include <stdio.h>
 #include <stdbool.h>
@@ -22,12 +17,10 @@ bool isPrime(int num) {
 }
 
 int main() {
-    int num;
-    printf("Enter a number : ");
-    scanf("%d", &num);
+    
+    int start = 50, end = 100;
 
-    for (int i = 1; i <= num; i++) {
-        // printf("%d %d \n", i, isPrime(i));
+    for (int i = start; i <= end; i++) {
         if (isPrime(i)) {
             printf("%d ", i);
         }
