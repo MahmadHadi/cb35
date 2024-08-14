@@ -106,3 +106,7 @@
         num = 6
             return 8
     create a function which returns factorial of given int number 
+
+14 aug 
+    google -> c language builtin / library function 
+    
