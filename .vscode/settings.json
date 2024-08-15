@@ -3,6 +3,8 @@
         "*.ejs": "html",
         "stdbool.h": "c",
         "stdio.h": "c",
-        "ctype.h": "c"
+        "ctype.h": "c",
+        "math.h": "c",
+        "stdalign.h": "c"
     }
 }
