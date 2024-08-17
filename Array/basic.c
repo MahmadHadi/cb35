@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <time.h>
+#include <unistd.h>
 #include <stdlib.h>
 
 int main() { 
@@ -18,9 +19,9 @@ int main() {
     for (int i = 0; i < num; i++) {
         // printf("Enter %d element : ", i + 1);
         // scanf("%d", &arr[i]);
-
+        sleep(1);
         srand(time(NULL));
-        arr[i] = rand(); 
+        arr[i] = rand();
     }
 
     // printf("%d ", arr[0]);
