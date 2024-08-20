@@ -110,3 +110,6 @@
 14 aug 
     google -> c language builtin / library function 
     
+
+20 aug 
+    find last index of key 
