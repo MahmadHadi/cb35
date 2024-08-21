@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 void main() {
-    int n = 10;
+    int n = -12;
     // printf("Enter a number : ");
     // scanf("%d", &n);
 
@@ -63,7 +63,3 @@ void main() {
 //     n-- // 0 
 //     print n // 0 
 // n > 0 -> 0 > 0 -> f -> loop break 
-
-
-
-

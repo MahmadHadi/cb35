@@ -113,3 +113,9 @@
 
 20 aug 
     find last index of key 
+        arr = {1, 1, 2, 2, 1, 2, 1}
+        key = 2
+    
+21 aug 
+    getProd(), getSub() 
+    Occ of all which are multiple of 3 
