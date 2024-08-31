@@ -6,6 +6,7 @@
         "ctype.h": "c",
         "math.h": "c",
         "stdalign.h": "c",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "array": "c"
     }
 }

@@ -119,3 +119,6 @@
 21 aug 
     getProd(), getSub() 
     Occ of all which are multiple of 3 
+
+31 aug  
+    create an 2d array of all even elems 
