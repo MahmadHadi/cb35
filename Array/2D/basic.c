@@ -5,13 +5,20 @@ int main() {
     // * int arr[row][col];
     // ! row = num of sub array 
     // ! col = num of elem in sub array 
+    // ? method 1 
     // int arr2[4][5] = {{1, 2, 3, 4, 5}, {1, 2, 3, 4, 5}, {1, 2, 3, 4, 5}, {1, 2, 3, 4, 5}};
-    int arr2[][5] = {
-        {11, 22, 49, 54, 25}, 
-        {111, 32, 13, 14, 45}, 
-        {1, 12, 43, 41, 35}, 
-        {31, 12, 61, 24, 15}
-    };
+    
+    // ? method 2 
+    // int arr2[][5] = {
+    //     {11, 22, 49, 54, 25}, 
+    //     {111, 32, 13, 14, 45}, 
+    //     {1, 12, 43, 41, 35}, 
+    //     {31, 12, 61, 24, 15}
+    // };
+
+    // ? method 3 
+    int arr2[][5] = {11, 22, 49, 54, 25, 111, 32, 13, 14, 45, 1, 12, 43, 41, 35, 31, 12, 61, 24, 15};
+
     
     // printf("arr2[2][4] = %d \n", arr2[2][4]); // 35
     // printf("arr2[3][3] = %d \n", arr2[3][3]); // 24
@@ -21,7 +28,7 @@ int main() {
 
     // * print all elems | access all elems 
     // pattern 
-    for (int i = 0; i < 5; i++) {
+    for (int i = 0; i < 4; i++) {
         for (int j = 0; j < 5; j++) {
             printf("arr2[%d][%d] = %d \n", i, j, arr2[i][j]);
         }
@@ -55,7 +62,5 @@ int main() {
     // print arr[3][3]
     // print arr[3][4]
     // print "\n"
-
-
     return 0;
 }

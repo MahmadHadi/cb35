@@ -122,3 +122,8 @@
 
 31 aug  
     create an 2d array of all even elems 
+
+2 sep   
+    product of all elems in a 2d array 
+    This C program will read a matrix of MxN {M = row, N = col} dimensions and prints only diagonal’s elements of the matrix.
+    This C program will read two matrices and find their sum (addition) and subtraction, in addition matrix addition of both matrixes’ elements will be assigned and in the subtraction matrix, subtraction of both matrixes’ elements will be assigned.
