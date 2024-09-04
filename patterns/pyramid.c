@@ -35,7 +35,7 @@ void main() {
                 printf("s ");
             } else if (count == 3 || count == 4) {
                 printf("c ");
-            } else if (count >= heigt * 2) {
+            } else if (count >= height * 2) {
                 printf("m ");
                 count = 1;
             }
